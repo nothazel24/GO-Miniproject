@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	exercise.TodoList()
+	exercise.Calculator()
 }
