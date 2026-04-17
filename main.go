@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	exercise.Calculator()
+	exercise.RunOrderManagement()
 }
